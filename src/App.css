@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,200..900;1,200..900&family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,200..900;1,200..900&family=DM+Serif+Text:ital@0;1&family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
+
+.delete,.edit{
+  padding-right: 10px;
+ 
+}
+#card{
+  background-color: rgb(193, 233, 216);
+  margin:10px;
+}
+p,input,#addButton{
+  font-family: "Lora", serif;
+}
+h1,h6,span{
+  font-family: "DM Serif Text", serif;
+}
